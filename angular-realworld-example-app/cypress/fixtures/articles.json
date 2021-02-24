@@ -1,0 +1,41 @@
+{
+  "articles": [
+    {
+      "title": "Lukomorye",
+      "slug": "lukomorye-dq388l",
+      "body": "## Лукоморье\nУ лукоморья дуб зеленый;\nЗлатая цепь на дубе том:\nи днем и ночью кот ученый\nВсе ходит по цепи кругом;\nИдет направо — песнь заводит,\nНалево — сказку говорит. ",
+      "createdAt": "2021-01-29T16:38:09.209Z",
+      "updatedAt": "2021-01-29T16:38:09.209Z",
+      "tagList": [
+        "poems"
+      ],
+      "description": "poems",
+      "author": {
+        "username": "yuriy12",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 3
+    },
+    {
+      "title": "Test",
+      "slug": "test-vk6bj4",
+      "body": "Test 2",
+      "createdAt": "2021-01-29T16:32:33.472Z",
+      "updatedAt": "2021-01-29T16:32:33.472Z",
+      "tagList": [],
+      "description": "Test 1",
+      "author": {
+        "username": "fab30",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 10
+    }
+  ],
+  "articlesCount": 500
+}
